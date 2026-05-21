@@ -115,6 +115,8 @@ The **Tables** sub-category recorded significant financial losses, primarily dri
 
 This analysis evaluates profitability across regions to identify geographic strengths and improvement opportunities.
 
+![image alt](https://github.com/AbiolaEmmanuel100/global-superstore-sales-analysis/blob/1cc89962e22d54a6e8f81ef644a19926dadf2567/REGIONAL%20PROFIT%20BY%20CATEGORY.PNG)
+
 ### Key Insight
 The **Central** region contributed the highest overall profit, while other regions showed opportunities for margin improvement through pricing optimization and product mix adjustments.
 
