@@ -81,6 +81,8 @@ Revenue demonstrates consistent long-term growth with periodic fluctuations, sug
 
 This visualization compares profit margin performance across major product categories to identify high-performing and underperforming business segments.
 
+![image alt](https://github.com/AbiolaEmmanuel100/global-superstore-sales-analysis/blob/1d03b59053d5f152d5a43c9abd41be59dd0f4b39/PROFIT%20MARGIN%20VIEW.PNG)
+
 ### Key Insight
 - **Technology** generated the highest overall profitability.
 - **Furniture** produced strong sales revenue but significantly weaker profit margins.
