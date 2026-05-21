@@ -57,6 +57,10 @@ This dashboard provides a high-level summary of overall business performance, hi
 
 ![image alt](https://github.com/AbiolaEmmanuel100/global-superstore-sales-analysis/blob/06883aa5ae8d98217a9e9552be34dbf1abd6b602/dashboard1.PNG)
 
+<p align="center">
+  <img src="[images/dashboard-view.png](https://github.com/AbiolaEmmanuel100/global-superstore-sales-analysis/blob/06883aa5ae8d98217a9e9552be34dbf1abd6b602/dashboard1.PNG)" width="800">
+</p>
+
 
 ### Key Insight
 While overall sales performance is strong, profitability varies significantly across categories, indicating the need for deeper category-level investigation.
