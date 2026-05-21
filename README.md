@@ -93,6 +93,8 @@ This visualization compares profit margin performance across major product categ
 
 A scatter plot was created to examine the relationship between average discount levels and total profit across product sub-categories.
 
+![image alt](https://github.com/AbiolaEmmanuel100/global-superstore-sales-analysis/blob/fa39fa318600d90fc98e9c52faa68ed49eab5647/dashboard%20view%203.PNG)
+
 ### Key Insight
 Sub-categories with higher average discount levels tend to generate lower or negative profit, indicating that aggressive discounting negatively impacts profitability.
 
