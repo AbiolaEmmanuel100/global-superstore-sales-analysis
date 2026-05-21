@@ -104,6 +104,8 @@ Sub-categories with higher average discount levels tend to generate lower or neg
 
 This detailed table analyzes sales, discount, and profit performance at the sub-category level. Conditional formatting was applied to highlight loss-making segments.
 
+![image alt](https://github.com/AbiolaEmmanuel100/global-superstore-sales-analysis/blob/e543031479e151c82bf41cbf526283a564e99e72/dashboard%20view%204.PNG)
+
 ### Key Insight
 The **Tables** sub-category recorded significant financial losses, primarily driven by excessive discounting, making it the largest contributor to weak Furniture profitability.
 
