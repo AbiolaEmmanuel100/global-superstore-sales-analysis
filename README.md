@@ -70,6 +70,8 @@ While overall sales performance is strong, profitability varies significantly ac
 
 The sales trend visualization tracks revenue performance over time, helping identify seasonality patterns, growth trends, and fluctuations in demand.
 
+![image alt](https://github.com/AbiolaEmmanuel100/global-superstore-sales-analysis/blob/2a49034f49e4bd67264d4045ebd072bf75674fdc/SALES%20TREND%20VIEW.PNG)
+
 ### Key Insight
 Revenue demonstrates consistent long-term growth with periodic fluctuations, suggesting seasonal demand cycles that can support forecasting and strategic planning.
 
