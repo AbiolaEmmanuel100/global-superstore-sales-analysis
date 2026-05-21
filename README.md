@@ -53,7 +53,7 @@ An interactive two-page dashboard was developed to provide both executive-level 
 # Executive Performance Overview
 
 This dashboard provides a high-level summary of overall business performance, highlighting total sales, total profit, and profit margin across product categories and regions. Interactive slicers allow users to dynamically filter performance by time period and region.
-![Dashboard](dashboard view.png)
+![Dashboard]([dashboard view.png](https://github.com/AbiolaEmmanuel100/global-superstore-sales-analysis/blob/main/dashboard%20view.PNG?raw=true))
 
 ### Key Insight
 While overall sales performance is strong, profitability varies significantly across categories, indicating the need for deeper category-level investigation.
